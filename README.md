@@ -1,5 +1,5 @@
 # My Home Assistant sprinkler configuration
-This is my personal Home Assistant configuration for my automated garden sprinklers.
+This is my personal [Home Assistant configuration](https://github.com/antoinevandenhurk/Home-Assistant) for my automated garden sprinklers.
 If you like this repo, be sure ⭐️ Star this repository.
 
 
@@ -13,7 +13,7 @@ If you like this repo, be sure ⭐️ Star this repository.
 
 
 ## About
-This are currently my devices for my [Home Assistant sprinklerautomation](https://github.com/antoinevandenhurk/Home-Assistant). Each friday morning HASS checks the buienradar every Friday to see if there is enough rain falling in the coming days. If this is less than 10 mm, HASS switches on the  Electrodragon ESP8266 relay supplies the 2-way ball valve via the changeover contact. This allows the water to flow to the sprinkler heads via the water booster system.
+This are currently my devices for my [Home Assistant](https://www.home-assistant.io/) sprinklerautomation. Each friday morning HASS checks the buienradar every Friday to see if there is enough rain falling in the coming days. If this is less than 10 mm, HASS switches on the  Electrodragon ESP8266 relay supplies the 2-way ball valve via the changeover contact. This allows the water to flow to the sprinkler heads via the water booster system.
 
 ## Example configuration
 
